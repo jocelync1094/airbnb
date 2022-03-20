@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-airbnb-335000",
+  "private_key_id": "6726371d5f6273d3c0148814ca94e58e6a3a296d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCHvVnrZrHC5B5E\nRSHtkNM3+eSSRIO6tXiGrG+pzQZm+HMkT8ewuNHmkMEfC5cjlOL0Mu/YSoqdFMya\nTNqFaU9uof1KEEREvnNB+daMuLRwxfUep1J7MdeegMpE7aUp1td4P4QKLlY7wzNK\nZLCkTecIjyQhwWluciAm87P9ccs9Q7PredyRlnJVNuirvGZ8FcUBoXBqsSuedsVv\nxy2YFGXPmdcCbTrVyDeNxax6dNLvgLN0Evh7SPywxFM37E+UTKnfRrJ6iQKCLrGf\nL9N/SxySvoStrMVwiMhLE0PbIpciRflbkkxcOyuogHirfe2liqE+3MIiPZvswrIk\nv0c8ZjZbAgMBAAECggEAPVumAGdI9mB4oAKiDgm3uKdgn4+R/j2WsEXVKevQN46a\nObFIgoVg+Hi5m2d5V++u0ZUO3vX/B3eF7z/LTaAndEqMPMTynyJ55jphtfWuNwX8\nwfD/s0l5/p+YDyVfUfTYLHaFoLaGa3hWwIuYX4UJaNCPlCSiHHdBOmpSE8AzD0tZ\nSzIf/Ke/zQKeyKP3rNEa/V2HpnSVp2tLzeG4NR0GVjRmhtxNELmRCnB2BnyyBzaU\n0kMldYfqbYyIqudN0102sOcXLxYx2R14/APW6M8k14l0Fg44d3lVpVXlfe2e6+Zc\nkFxxt7Zk6MkxRGemKmhjAP67pNOIvFSsYzICszSSJQKBgQC6biY1tLjTksF0d/by\n2vkZ8gxk0PDhRfrERR0bZQLMltOYEA7+PSL5+CW/aawNDxmG9QWJxL+4j4buL04O\nQK2Esasq4z+4iwTRAWOeccPeqizZstFOOagy6E0bP+NEC5+PdoTip3br6vfrHquO\nD+uBY9WlphnVQVs0pVBj68U/RwKBgQC6ZK6SXNpVGxu31A01OyB/gO/WSXlTVBT8\nwySxckiaIagGSnTpoiQujXMouPr+LTzpixg8m6zZDI6GApmBNACIzyzXCPdZz7Hy\nDzJ+Mo+bAY2oPHTgwonddoy8xDLMzcPmFGqW04rVdhxOBXL6suYFIOIyqsj2R/Ic\nY94fR99iTQKBgEBNr/ZEUKABdaLDojUgHF27pFS90OgS6Cz8nc6OJ8oDmBZSK6m7\n0q2fzv1X6JVUiPyI1RExAOQa9XKAdI7r9i3Xzm9rlNYFdXLV5NOI8AOEdRXd3N37\ney2b/MSSY8Rbsfyc57b6BkXXdQ3vNUM58IRfuBh701tAQMJG5xSgBRgPAoGAA5yr\n3V47RObvlJJhZySsLoxbGXX3CexZM8S8U0v5qDL6xJRwy44+0UAgeSuMgZxyz7vI\nTnRd1x7tLB+kxeIyGHSbU9dyo6Tot94fhl6IdeKD0jzJrwlWDpqbg5TxvxJFt5Gx\ntxaGXDibt89XORB6cKMAfybcGhmu0WoGBekopQkCgYBjLr9eqDP4iv8AF+fIgH03\nRlShySD3LaDqbTEVGTb8gvM2YYLY2ZWWyxRxuOzG3Qh6EjnH9OWsrlh9Mq5s8BxH\n8zXddHlTiDIfC5lL4sN+ucgal+/OExTrNpKwNl/OJBdKGQ1k9SB1/UDzfulEo1du\nIfY6nfpNWike52gazkaX5Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jocelyn-airbnb-img-service-acc@my-airbnb-335000.iam.gserviceaccount.com",
+  "client_id": "102305078008422188991",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jocelyn-airbnb-img-service-acc%40my-airbnb-335000.iam.gserviceaccount.com"
+}
